@@ -1,0 +1,2 @@
+# Office-Supply-Project
+The code and analysis approach is based on my Emeritus Management Institute and Columbia University course's capstone project. The data set is public and often used for learning projects.  The files loaded reflect the specific stages of data cleaning, data transformation, exploratory analysis, and modeling needed to predict the success of future campaigns and recommend most profitable customer bases. 
